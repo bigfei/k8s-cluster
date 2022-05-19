@@ -1,5 +1,7 @@
 # Editors
 .vscode/
+.history/
+
 # Trash
 .DS_Store
 Thumbs.db
